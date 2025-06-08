@@ -1,0 +1,75 @@
+{
+  "experience": {
+    "title": "My Experience",
+    "work_experience": [
+      {
+        "position": "Junior Software Developer",
+        "company": "Tech Solutions Ltd",
+        "location": "Kigali, Rwanda",
+        "duration": "Jan 2023 - Present",
+        "responsibilities": [
+          "Developed and maintained scalable web applications using React and Node.js, improving user engagement by 20%.",
+          "Collaborated with cross-functional teams to design and implement RESTful APIs for seamless data integration.",
+          "Optimized database queries with PostgreSQL, reducing response times by 15%.",
+          "Contributed to CI/CD pipeline setup using Jenkins and Docker for efficient deployments."
+        ]
+      },
+      {
+        "position": "Freelance Developer",
+        "company": "Self-Employed",
+        "location": "Remote",
+        "duration": "Jun 2021 - Dec 2022",
+        "responsibilities": [
+          "Built custom web applications for small businesses using JavaScript, Python, and Django.",
+          "Designed user-friendly interfaces with React, enhancing client satisfaction and usability.",
+          "Integrated third-party APIs to add functionality like payment gateways and analytics."
+        ]
+      }
+    ],
+    "education_background": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "University of Rwanda",
+        "location": "Kigali, Rwanda",
+        "duration": "Sep 2018 - Jun 2022",
+        "details": "Graduated with honors, focusing on software engineering, data structures, and algorithms."
+      }
+    ],
+    "internships_or_volunteer_work": [
+      {
+        "role": "Software Development Intern",
+        "organization": "Innovate Rwanda",
+        "location": "Kigali, Rwanda",
+        "duration": "Jun 2021 - Aug 2021",
+        "description": "Assisted in developing a cloud-based inventory management system using AWS and Python, improving operational efficiency for local businesses."
+      },
+      {
+        "role": "Open-Source Contributor",
+        "organization": "GitHub Community",
+        "location": "Remote",
+        "duration": "Jan 2020 - Present",
+        "description": "Contributed to open-source projects, including bug fixes and feature enhancements for React-based libraries, and mentored new contributors."
+      }
+    ],
+    "relevant_coursework_or_certifications": [
+      {
+        "title": "AWS Certified Solutions Architect – Associate",
+        "issuer": "Amazon Web Services",
+        "date": "Mar 2023",
+        "description": "Demonstrated expertise in designing and deploying scalable systems on AWS."
+      },
+      {
+        "title": "Full-Stack Web Development with React",
+        "issuer": "Coursera",
+        "date": "Nov 2022",
+        "description": "Completed coursework on building modern web applications with React, Node.js, and MongoDB."
+      },
+      {
+        "title": "Data Structures and Algorithms",
+        "issuer": "University of Rwanda",
+        "date": "Spring 2021",
+        "description": "Studied advanced data structures and algorithm design, applying concepts to optimize application performance."
+      }
+    ]
+  }
+}
