@@ -45,7 +45,6 @@ const ContactSection = () => {
     } else {
       setErrors({});
       console.log("Form submitted:", formData);
-      // In a real app, submit to contact.contact.contact_form.submit.action
     }
   };
 
