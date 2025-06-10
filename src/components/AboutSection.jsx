@@ -37,6 +37,7 @@ const AboutSection = () => {
           <div className="about-item">
             <h2>Unique Qualities</h2>
             <p>{personalInfo.about.unique_qualities.description}</p>
+            <p>{personalInfo.about.unique_qualities.likes}</p>
           </div>
         </div>
       </div>
