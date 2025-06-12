@@ -26,23 +26,12 @@
         {
           "category": "Programming Languages",
           "items": ["JavaScript", "Python", "Java", "TypeScript"]
-        },
-        {
-          "category": "Frameworks & Libraries",
-          "items": ["React", "Node.js", "Django", "Angular", "Express"]
-        },
-        {
-          "category": "Tools & Platforms",
-          "items": ["Git", "Docker", "Webpack", "Jenkins", "AWS", "Azure", "PostgreSQL", "MongoDB"]
-        },
-        {
-          "category": "Practices",
-          "items": ["Agile development", "RESTful API design", "Microservices architecture", "CI/CD pipelines"]
         }
       ]
     },
     "unique_qualities": {
-      "description": "What distinguishes me as a developer is my ability to bridge technical excellence with strategic vision. I don’t just write code—I focus on understanding the business goals and user needs behind each project. This enables me to deliver solutions that are not only technically sound but also drive measurable outcomes, such as improved customer engagement and operational efficiency. My collaborative approach, combined with a commitment to writing clean, maintainable code, ensures that my work adds lasting value to both clients and end-users."
+      "description": "What distinguishes me as a developer is my ability to bridge technical excellence with strategic vision.",
+      "likes":"I like crochetting various handmade clothes and as well designing "
     }
   }
 }

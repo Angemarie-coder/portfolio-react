@@ -54,7 +54,7 @@ Fully optimized for mobile and desktop views with smooth scrolling.
 Utilizes useState and useEffect React hooks for dynamic data rendering.
 
 🎨 Design Inspiration
-Pinterest Portfolio Design Reference: [Add your design inspiration link here]
+Pinterest Portfolio Design Reference: [https://pin.it/5vbKqUETA]
 
 🌐 Live Demo
 View it here: https://portfolio-react-theta-pearl.vercel.app/
